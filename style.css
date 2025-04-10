@@ -58,6 +58,13 @@ section {
   background-position: center;
   background-attachment: fixed;
 }
+@media (max-width:1021px) {
+  .main {
+
+    background: url(nasertow.png) no-repeat;
+
+  }
+}
 
 .main h2 {
   color: #fff;
